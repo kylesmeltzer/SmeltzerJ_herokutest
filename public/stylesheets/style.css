@@ -1,14 +1,33 @@
 body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: #564e99;
+  color: white;
+  text-align: center;
 }
 
 
-section {
+#overview {
   width: 1000px;
   margin: 0 auto;
-  padding: 100px 50px;
-  background-color: indigo;
-  color: white;
+  padding: 50px;
+  background-color: white;
+  color: black;
+  font-size: 16px;
+}
+
+#library {
+  width: 1000px;
+  margin: 0 auto;
+  padding: 50px;
+  font-size: 16px;
+}
+
+#legacy {
+  width: 1000px;
+  margin: 0 auto;
+  padding: 50px;
+  background-color: white;
+  color: black;
   font-size: 16px;
 }
